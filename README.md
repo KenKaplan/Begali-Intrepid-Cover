@@ -2,4 +2,4 @@
 
 2mm thick 3D printed cover
 
-printed on PETG
+printed in PETG
