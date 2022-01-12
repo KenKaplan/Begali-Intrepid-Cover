@@ -1,5 +1,5 @@
 # Begali-Intrepid-Cover
 
-2mm thick 3D printed cover
+3D printed cover for the Begali Intrepid bug.
 
-printed in PETG
+2mm thick, printed in PETG
